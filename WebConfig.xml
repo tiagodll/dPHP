@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dPHP>
+	<Banco>		
+		<Server>your.server.url</Server>
+		<Usuario>the_username</Usuario>
+		<Senha>password</Senha>
+		<Base>base_to_query</Base>
+	</Banco>
+	<Config>
+		<SenhaPadrao>bugbyte</SenhaPadrao>
+	</Config>
+	<Caminho>./</Caminho>
+	<Site>BugByte/</Site>
+	<Modo>Debug</Modo>
+</dPHP>
